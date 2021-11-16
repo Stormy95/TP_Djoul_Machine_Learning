@@ -1,1 +1,1 @@
-# TP_Djoul_Machine_Learning
+# TP PCA et Clustering (Kmean et AgglomerativeClustering)
