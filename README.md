@@ -11,3 +11,5 @@ random forests and logistic regression for classification task.
 - Second project we compare: decision tree: CART and ID3, KNN, NaivesBayes, Random Forest, Bagging, MultilayerPerceptron and Adaboost on a classification task, we fine-tune the hyper parameters of each algorithm and we set-up pipelines. In a second part we learn how to deal with heterogeneous datset and how to deal with missing data for numerical and categorical. Then in a last part we learn how to use text as input for a classification task SPAM or NOT SPAM
 
 # TP 3 = Anomalie detection : Isolation forest
+
+- By using Scikit Learn python library we deploy a isolation forest model for anomaly detection a a mickey mouse figure. We learn how to fine-tune the hyper parameters of the algorithm.
